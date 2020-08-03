@@ -14,6 +14,7 @@ public class HelloJava {
 		System.out.println("진영");
 		System.out.println("수정했음!");
 		System.out.println("깃허브 올리고 수정함!");
+		System.out.println("시험업로드");
 		/*
 		 이것은
 		 여러줄
