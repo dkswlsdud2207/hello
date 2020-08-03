@@ -1,0 +1,23 @@
+/*
+ *Date: 2020/6/26
+ *Author: 홍길동
+ *설명: 첫번째 자바 프로그램 입니다.
+ *Version: 1.0
+
+*/
+package hello;
+
+public class HelloJava {
+
+	public static void main(String[] args) {
+		//주석입니다.코드를 설명 개바자가 보기 위함
+		System.out.println("진영");
+		/*
+		 이것은
+		 여러줄
+		 주석 
+				 */
+	}
+
+	}
+
